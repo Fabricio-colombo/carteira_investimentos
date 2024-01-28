@@ -1,17 +1,17 @@
-# Carteira de Investimentos e Finanças
+# Investment Portfolio and Finance
 
-Bem-vindo ao repositório dedicado ao acompanhamento e análise de carteira de investimentos e tópicos relacionados às finanças pessoais. Este espaço foi criado com o objetivo de oferecer recursos e insights que auxiliem na gestão de ativos, no entendimento de estratégias de investimento e na promoção da educação financeira.
+Welcome to the repository dedicated to monitoring and analyzing investment portfolios and topics related to personal finance. This space was created with the aim of providing resources and insights to assist in asset management, understanding investment strategies, and promoting financial education.
 
-## Objetivo do Repositório
+## Repository Objective
 
-O principal propósito deste repositório é proporcionar um ambiente colaborativo para compartilhar informações, análises e ferramentas relacionadas a carteiras de investimentos.
+The main purpose of this repository is to provide a collaborative environment for sharing information, analyses, and tools related to investment portfolios.
 
-## Como Contribuir
+## How to Contribute
 
-Você é convidado a contribuir para este repositório! Algumas formas de participação incluem:
+You are invited to contribute to this repository! Some ways to participate include:
 
-- Adicionar análises de carteira.
-- Compartilhar artigos e recursos educativos sobre finanças.
-- Contribuir com códigos e ferramentas relacionados a análise financeira.
-  
-Fique à vontade para explorar, contribuir e aprender!
+- Adding portfolio analyses.
+- Sharing articles and educational resources on finance.
+- Contributing codes and tools related to financial analysis.
+
+Feel free to explore, contribute, and learn!
